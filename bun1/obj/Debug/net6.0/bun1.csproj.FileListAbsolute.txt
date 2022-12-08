@@ -1,0 +1,15 @@
+C:\Users\Дэнчик\Desktop\Stone\bun1\bin\Debug\net6.0\bun1.exe
+C:\Users\Дэнчик\Desktop\Stone\bun1\bin\Debug\net6.0\bun1.deps.json
+C:\Users\Дэнчик\Desktop\Stone\bun1\bin\Debug\net6.0\bun1.runtimeconfig.json
+C:\Users\Дэнчик\Desktop\Stone\bun1\bin\Debug\net6.0\bun1.dll
+C:\Users\Дэнчик\Desktop\Stone\bun1\bin\Debug\net6.0\bun1.pdb
+C:\Users\Дэнчик\Desktop\Stone\bun1\obj\Debug\net6.0\bun1.csproj.AssemblyReference.cache
+C:\Users\Дэнчик\Desktop\Stone\bun1\obj\Debug\net6.0\bun1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дэнчик\Desktop\Stone\bun1\obj\Debug\net6.0\bun1.AssemblyInfoInputs.cache
+C:\Users\Дэнчик\Desktop\Stone\bun1\obj\Debug\net6.0\bun1.AssemblyInfo.cs
+C:\Users\Дэнчик\Desktop\Stone\bun1\obj\Debug\net6.0\bun1.csproj.CoreCompileInputs.cache
+C:\Users\Дэнчик\Desktop\Stone\bun1\obj\Debug\net6.0\bun1.dll
+C:\Users\Дэнчик\Desktop\Stone\bun1\obj\Debug\net6.0\refint\bun1.dll
+C:\Users\Дэнчик\Desktop\Stone\bun1\obj\Debug\net6.0\bun1.pdb
+C:\Users\Дэнчик\Desktop\Stone\bun1\obj\Debug\net6.0\bun1.genruntimeconfig.cache
+C:\Users\Дэнчик\Desktop\Stone\bun1\obj\Debug\net6.0\ref\bun1.dll
